@@ -1,4 +1,4 @@
-Amazon Prime User Analysis with PySpark in Databricks:-
+Amazon Prime Users Analysis with PySpark in Databricks:-
 
 Overview:
 
